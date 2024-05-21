@@ -1,0 +1,25 @@
+.navbar {
+  background-color: blueviolet;
+  color: aliceblue;
+  display: flex;
+  padding: 15px 15px;
+}
+
+.navbar a {
+  color: aliceblue;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.navbar a:last-child {
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: 20px;
+  transition: all ease-in 0.2s;
+}
+.navbar a:last-child:hover {
+  background-color: blanchedalmond;
+  color: black;
+  transition: all ease-in 0.2s;
+}
