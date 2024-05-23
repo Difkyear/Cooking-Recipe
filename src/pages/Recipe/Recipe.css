@@ -1,0 +1,53 @@
+.recipe {
+  padding: 30px;
+  max-width: 1200px;
+  margin: 30px auto;
+  background-color: rgb(252, 252, 252);
+  /* border: 1px solid; */
+  border-radius: 2px;
+}
+.recipe p,
+.recipe ul {
+  text-align: center;
+  color: darkgray;
+}
+.recipe h1 {
+  text-align: center;
+  margin: 20px;
+}
+.recipe ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.recipe ul li {
+  margin-right: 10px;
+  list-style-type: none;
+  color: darkgray;
+}
+.recipe ul li::after {
+  content: ",";
+}
+.recipe ul li:last-child::after {
+  content: ".";
+}
+.recipe p:last-child {
+  gap: 5px;
+}
+.recipe li {
+  margin-right: 10px;
+  list-style-type: none;
+  color: darkgray;
+}
+.recipe li::after {
+  content: ",";
+}
+.recipe li:last-child::after {
+  content: ".";
+}
+.recipe p:last-child {
+  text-align: left;
+  line-height: 1.5em;
+}
