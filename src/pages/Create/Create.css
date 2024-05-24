@@ -26,3 +26,11 @@
   text-decoration: none;
   margin: 30px auto;
 }
+.ingredients {
+  width: 520px;
+  display: flex;
+  align-items: center;
+}
+.ingredients button {
+  margin: 0 0 0 20px;
+}

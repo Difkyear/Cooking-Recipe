@@ -36,6 +36,24 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "id": "af00",
+      "title": "adafafaf",
+      "cookingTime": "123 minutes",
+      "method": "afadfa",
+      "ingredients": [
+        "adfa"
+      ]
+    },
+    {
+      "id": "12de",
+      "title": "dadafasfa",
+      "cookingTime": "1231 minutes",
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "ingredients": [
+        "asfa"
+      ]
     }
   ]
 }
