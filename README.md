@@ -8,4 +8,4 @@
 - 用户还可以查看菜谱的详细信息
 - 用户还可以创建自己的菜谱
 
-![demo.gif](https://img2.imgtp.com/2024/05/23/6Oi53LRl.gif)
+![demo.gif](https://img2.imgtp.com/2024/05/25/ccIFR07J.gif)

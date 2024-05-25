@@ -38,120 +38,12 @@
       "cookingTime": "35 minutes"
     },
     {
-      "id": "af00",
-      "title": "adafafaf",
-      "cookingTime": "123 minutes",
-      "method": "afadfa",
+      "id": "037b",
+      "title": "PIE",
+      "cookingTime": "12 minutes",
+      "method": "PIE",
       "ingredients": [
-        "adfa"
-      ]
-    },
-    {
-      "id": "12de",
-      "title": "dadafasfa",
-      "cookingTime": "1231 minutes",
-      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
-      "ingredients": [
-        "asfa"
-      ]
-    },
-    {
-      "id": "7cf8",
-      "title": "3123213",
-      "cookingTime": "123 minutes",
-      "method": "1232131",
-      "ingredients": [
-        "31231"
-      ]
-    },
-    {
-      "id": "a5df",
-      "title": "3123213",
-      "cookingTime": "123 minutes",
-      "method": "1232131",
-      "ingredients": [
-        "31231"
-      ]
-    },
-    {
-      "id": "74da",
-      "title": "3123213",
-      "cookingTime": "123 minutes",
-      "method": "1232131",
-      "ingredients": [
-        "31231"
-      ]
-    },
-    {
-      "id": "6b14",
-      "title": "3123213",
-      "cookingTime": "123 minutes",
-      "method": "1232131",
-      "ingredients": [
-        "31231"
-      ]
-    },
-    {
-      "id": "0444",
-      "title": "3123213",
-      "cookingTime": "123 minutes",
-      "method": "1232131",
-      "ingredients": [
-        "31231"
-      ]
-    },
-    {
-      "id": "4952",
-      "title": "efad",
-      "cookingTime": "1 minutes",
-      "method": "adf",
-      "ingredients": [
-        "adf"
-      ]
-    },
-    {
-      "id": "6f5f",
-      "title": "efad",
-      "cookingTime": "1 minutes",
-      "method": "adf",
-      "ingredients": [
-        "adf"
-      ]
-    },
-    {
-      "id": "144e",
-      "title": "efad",
-      "cookingTime": "1 minutes",
-      "method": "adf",
-      "ingredients": [
-        "adf"
-      ]
-    },
-    {
-      "id": "44e3",
-      "title": "asd",
-      "cookingTime": "123 minutes",
-      "method": "asd",
-      "ingredients": [
-        "asd"
-      ]
-    },
-    {
-      "id": "8fe7",
-      "title": "adsfa",
-      "cookingTime": "123 minutes",
-      "method": "asfa",
-      "ingredients": [
-        "wfa"
-      ]
-    },
-    {
-      "id": "1710",
-      "title": "aaa",
-      "cookingTime": "11 minutes",
-      "method": "aaa",
-      "ingredients": [
-        "a"
+        "milk"
       ]
     }
   ]

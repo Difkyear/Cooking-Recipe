@@ -7,6 +7,9 @@ export default function RecipeList(props) {
   // Destructure the property, recipe, from the props parameter
   let { recipe } = props;
   // Return a div containing a map of the recipe array, with a key and style
+  if (recipe.length === 0) {
+    return <div className="error">There is no item to load</div>;
+  }
   return (
     <div className="recipe-List">
       {recipe.map((item) => {
