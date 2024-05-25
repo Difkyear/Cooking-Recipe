@@ -4,7 +4,9 @@ import { useFetch } from "../../hooks/useFetch";
 // styles
 import "./Recipe.css";
 export default function Recipe() {
+  // get id from url params
   let { id } = useParams();
+  // use the useFetch hook to fetch data from the api
   let { data, error, isPending } = useFetch(
     `http://localhost:3000/recipes/${id}`
   );
