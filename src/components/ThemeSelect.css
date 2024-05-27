@@ -1,0 +1,12 @@
+.theme-select {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px auto;
+}
+.theme-select .button {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
